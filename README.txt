@@ -1,30 +1,25 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<a href="https://www.linkedin.com/in/rafael-alpizar-gis-analyst/"><img src="https://img.shields.io/badge/LinkedIn-6495ED" /> </a>
 
+## Hi there 👋
+I am Rafael Alpizar,aspiring GIS professional. 
+My experience has led me down the path of a GIS Analyst but I am certainly intrigued by all the different aspects that the geospatial field has expanded into.
+After completing a Bachelor's of Art in Geography (option in GIS)and earning a Geospatial Python course certificate from University of Tennessee, Knoxville I have expanded my view on the capability of GIS.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+# Skills and Expertise
+My education has led me down the path of a GIS Analyst although I am interested in all aspects of geospatial science.
+Some of these skills include:
+  - geoprocessing
+  - raster classification
+  - data clean-up
+  - network analysis
+  - spatial analysis
+  - web map creation
+  - ESRI, QGIS, ERDAS Imagine
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+🌱 I’m currently learning skills essential for a GIS Developer.
+Such as: Github, python, API's, Data Automation, Cloud-based data integration.
 
-(* = not included)
+# Interest and Hobbies:
+Some of my hobbies include gaming 🎮, powerlifting 💪, and film 🎥.
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+📫 How to reach me: ralpiza23@gmail.com 
